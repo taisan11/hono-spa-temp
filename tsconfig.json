@@ -14,7 +14,7 @@
 
     /* jsx */
     "jsx": "react-jsx",
-    "jsxImportSource": "hono/jsx/dom",
+    "jsxImportSource": "hono/jsx",
 
     /* Bundler mode */
     "moduleResolution": "bundler",
